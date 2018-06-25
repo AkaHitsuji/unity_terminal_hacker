@@ -7,6 +7,9 @@ public class Hacker : MonoBehaviour {
     // Game state
     int level;
 
+    enum Screen { MainMenu, Password, Win };
+    Screen currentScreen = Screen.MainMenu;
+
 	// Use this for initialization
     void Start () {
         ShowMainMenu();
