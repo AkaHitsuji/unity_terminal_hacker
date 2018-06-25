@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-/Users/AngYang/gitHub_Projects/unity_terminal_hacker
+/Users/AngYang/gitHub_Projects/unity_terminal_hacker/Android build
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
